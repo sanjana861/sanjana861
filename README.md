@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student speciali
 - 🎯 Career Goal: Secure a high-impact role in tech right after graduation
 
 📫 How to reach me:  
-[LinkedIn]((https://www.linkedin.com/in/sanjanakande/)) |  
+[LinkedIn]([https://www.linkedin.com/in/sanjanakande/]) |  
 📧 kandesanjana2004@gmail.com
 
 ---
