@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate Computer Science student specializing in Data Science, currently working as an intern at **Apex Planet**.
 
-- 🌱 Currently learning: Full Stack Development, Cloud Basics & AI Tools
+- 🌱 Currently learning: AI & ML 
 - 💻 Tech Stack: PHP, Python, JavaScript, MySQL, Git, VS Code
 - 💼 Internship: Apex Planet – Web Development & Automation Tasks
 - 🎯 Career Goal: Secure a high-impact role in tech right after graduation
